@@ -10,4 +10,5 @@
 Потом запустить файл game_life.py и наслаждаться. В игре присутствуют три кнопки, которые интуитивно понятно исходя из их названия.
 # Разработал
 Дмитрийчук Никита из ПИ-171, ОмГТУ 2021
-![me](https://github.com/dmitrichuk/game_life/blob/main/demonstration.gif)
+# Демонстрация
+<img src=https://github.com/dmitrichuk/game_life/blob/main/demonstration.gif></img>
