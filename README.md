@@ -11,4 +11,4 @@
 # Разработал
 Дмитрийчук Никита из ПИ-171, ОмГТУ 2021
 # Демонстрация
-<img src=https://github.com/dmitrichuk/game_life/blob/main/demonstration.gif></img>
+<img src="https://github.com/dmitrichuk/game_life/blob/main/dem_2.gif"></img>
